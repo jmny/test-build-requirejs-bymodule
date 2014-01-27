@@ -1,0 +1,2 @@
+test-build-requirejs-bymodule
+=============================
